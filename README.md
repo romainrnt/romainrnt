@@ -2,7 +2,7 @@
 
 # 👋 Salut, je suis Romain !
 
-## 🚀 Développeur Full-Stack Mobile/Web & UI/UX Designer
+## 🚀 Développeur
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-romainreynaert.fr-3B82F6?style=for-the-badge&logo=safari&logoColor=white)](https://romainreynaert.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain_REYNAERT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-reynaert/)
@@ -10,63 +10,11 @@
 
 ---
 
-### 🎯 **Étudiant en 5ème année à Epitech** | **Passionné par le développement web et mobile**
+### 🎯 **Étudiant en 5ème année à Epitech**
 
 *Spécialisé en développement front-end avec des compétences fullstack*
 
 </div>
-
-## 🌟 **À propos de moi**
-
-```typescript
-const romain = {
-  status: "Étudiant Epitech 5ème année",
-  currentRole: "Développeur Front-end chez Quintyss Limited",
-  location: "France 🇫🇷",
-  passions: ["Tennis 🎾", "Technologie 💻", "UI/UX Design 🎨"],
-  currentFocus: "Recherche stage part-time (3j/semaine)",
-  motto: "Créer des interfaces fluides qui s'adaptent à tous les appareils"
-};
-```
-
-## 💼 **Expérience Professionnelle**
-
-### 🔵 **Quintyss Limited** *(Nov 2024 — Juin 2025)*
-**Développeur Front-end (part-time) | Freelance**
-- Développement de sites web à partir de maquettes Adobe XD
-- Création d'interfaces fluides et responsives
-- Du site vitrine à l'application web complexe
-
-### 🟢 **KUHN Group** *(Nov 2023 — Juin 2024)*
-**Développeur applications mobiles (part-time + stage)**
-- Amélioration et réécriture d'applications mobiles en React Native
-- Travail sur la bibliothèque de composants génériques
-- Méthodes AGILE sur des projets d'envergure
-
-### 🟡 **LEO & ASSOCIES (AXA)** *(Juil 2021 — Déc 2021)*
-**Assistant Systèmes d'Informations (stage)**
-- Gestion du parc informatique de 4 agences d'assurance
-- Résolution de problèmes techniques
-- Cartographie du système d'information
-
----
-
-## 🚀 **Projets Principaux**
-
-<div align="center">
-
-| 🌐 **Sites Web** | 📱 **Applications Mobiles** | 🎯 **Projets Personnels** |
-|:---:|:---:|:---:|
-| **Apsaras** | **PreciSeed** | **Smaash** |
-| *Site web théâtre* | *KUHN - Agriculture* | *Rencontre sportive* |
-| [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://apsaras.vercel.app) | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/kuhn-preciseed/id833355923) | 🚧 *En cours de déploiement* |
-| **UnexDrive** | **ForageXpert** |  |
-| *Comparateur voitures* | *KUHN - Équipement* |  |
-| [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://unexdrive.tomisch.dev) | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/kuhn-foragexpert/id903373424) |  |
-
-</div>
-
----
 
 ## 🛠 **Stack Technique**
 
@@ -112,37 +60,6 @@ const romain = {
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainReynaert&theme=tokyonight&border=3B82F6&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
 </div>
-
----
-
-## 🎾 **Au-delà du code**
-
-```javascript
-const passions = {
-  tennis: {
-    level: "Passionné",
-    tournaments: ["Roland Garros 🏆"],
-    players: ["Jannik Sinner", "Carlos Alcaraz"],
-    travel: "Toujours avec ma raquette ✈️"
-  },
-  technology: {
-    focus: "Interfaces utilisateur innovantes",
-    interests: ["UI/UX Design", "Mobile Development", "Web Performance"]
-  }
-};
-```
-
----
-
-<div align="center">
-
-## 💬 **Recherche actuellement**
-
-**🎯 Stage part-time (3 jours/semaine) pour ma dernière année**
-
-*Rejoindre une équipe dynamique et apporter une valeur ajoutée sur des projets concrets*
-
-[![Portfolio](https://img.shields.io/badge/Découvrir_mon_portfolio-3B82F6?style=for-the-badge&logo=safari&logoColor=white)](https://romainreynaert.fr)
 
 ---
 
