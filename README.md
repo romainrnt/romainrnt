@@ -37,10 +37,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
----
-
-<div align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romainrnt&layout=compact&theme=tokyonight&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-
-</div>
