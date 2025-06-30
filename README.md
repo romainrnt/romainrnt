@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain_REYNAERT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-reynaert/)
 [![Email](https://img.shields.io/badge/Email-Contact_Moi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romain.reynaert@epitech.eu)
 
-🎯 **Étudiant en 5ème année à Epitech**
 
 </div>
 
