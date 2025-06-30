@@ -1,73 +1,3 @@
-<div align="center">
-
-# 👋 Salut, je suis Romain !
-
-## 🚀 Développeur Full-Stack Mobile/Web & UI/UX Designer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-romainreynaert.fr-3B82F6?style=for-the-badge&logo=safari&logoColor=white)](https://romainreynaert.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain_REYNAERT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-reynaert/)
-[![Email](https://img.shields.io/badge/Email-Contact_Moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romain@romainreynaert.fr)
-
----
-
-### 🎯 **Étudiant en 5ème année à Epitech** | **Passionné par le développement web et mobile**
-
-*Spécialisé en développement front-end avec des compétences fullstack*
-
-</div>
-
-## 🌟 **À propos de moi**
-
-```typescript
-const romain = {
-  status: "Étudiant Epitech 5ème année",
-  currentRole: "Développeur Front-end chez Quintyss Limited",
-  location: "France 🇫🇷",
-  passions: ["Tennis 🎾", "Technologie 💻", "UI/UX Design 🎨"],
-  currentFocus: "Recherche stage part-time (3j/semaine)",
-  motto: "Créer des interfaces fluides qui s'adaptent à tous les appareils"
-};
-```
-
-## 💼 **Expérience Professionnelle**
-
-### 🔵 **Quintyss Limited** *(Nov 2024 — Juin 2025)*
-**Développeur Front-end (part-time) | Freelance**
-- Développement de sites web à partir de maquettes Adobe XD
-- Création d'interfaces fluides et responsives
-- Du site vitrine à l'application web complexe
-
-### 🟢 **KUHN Group** *(Nov 2023 — Juin 2024)*
-**Développeur applications mobiles (part-time + stage)**
-- Amélioration et réécriture d'applications mobiles en React Native
-- Travail sur la bibliothèque de composants génériques
-- Méthodes AGILE sur des projets d'envergure
-
-### 🟡 **LEO & ASSOCIES (AXA)** *(Juil 2021 — Déc 2021)*
-**Assistant Systèmes d'Informations (stage)**
-- Gestion du parc informatique de 4 agences d'assurance
-- Résolution de problèmes techniques
-- Cartographie du système d'information
-
----
-
-## 🚀 **Projets Principaux**
-
-<div align="center">
-
-| 🌐 **Sites Web** | 📱 **Applications Mobiles** | 🎯 **Projets Personnels** |
-|:---:|:---:|:---:|
-| **Apsaras** | **PreciSeed** | **Smaash** |
-| *Site web théâtre* | *KUHN - Agriculture* | *Rencontre sportive* |
-| [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://apsaras.vercel.app) | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/kuhn-preciseed/id833355923) | 🚧 *En cours de déploiement* |
-| **UnexDrive** | **ForageXpert** |  |
-| *Comparateur voitures* | *KUHN - Équipement* |  |
-| [![Demo](https://img.shields.io/badge/Demo-Live-success?style=flat-square)](https://unexdrive.tomisch.dev) | [![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/fr/app/kuhn-foragexpert/id903373424) |  |
-
-</div>
-
----
-
 ## 🛠 **Stack Technique**
 
 <div align="center">
@@ -149,5 +79,56 @@ const passions = {
 *⭐ N'hésite pas à star mes repos si tu aimes ce que je fais !*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RomainReynaert&color=3B82F6&style=for-the-badge)
+
+</div>
+
+->
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainReynaert&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainReynaert&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff)
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainReynaert&theme=dark&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌟 Beyond Code
+
+**Tennis 🎾** - Huge fan of the sport! I follow players like Jannik Sinner and Carlos Alcaraz, and I never travel without my racket.
+
+**Running 🏃‍♂️** - Whether it's a morning jog or exploring new cities on foot, running keeps me energized and focused.
+
+**Music Production 🎵** - From recording to post-production, I love creating and mixing music in my spare time. There's something magical about bringing sounds to life.
+
+---
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/👀_Check_out_my_portfolio-6366f1?style=for-the-badge)](https://romainreynaert.fr)
+
+*Want to know more about my projects and experience? Visit my portfolio!*
 
 </div>
