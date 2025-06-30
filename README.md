@@ -51,18 +51,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomainReynaert&show_icons=true&theme=tokyonight&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romainrnt&show_icons=true&theme=tokyonight&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomainReynaert&layout=compact&theme=tokyonight&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romainrnt&layout=compact&theme=tokyonight&border_color=3B82F6&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomainReynaert&theme=tokyonight&border=3B82F6&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
-
----
-
-*⭐ N'hésite pas à star mes repos si tu aimes ce que je fais !*
-
-![Profile Views](https://komarev.com/ghpvc/?username=RomainReynaert&color=3B82F6&style=for-the-badge)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romainrnt&theme=tokyonight&border=3B82F6&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
 
 </div>
