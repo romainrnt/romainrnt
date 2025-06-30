@@ -2,11 +2,11 @@
 
 # 👋 Salut, je suis Romain !
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-romainreynaert.fr-3B82F6?style=for-the-badge&logo=safari&logoColor=white)](https://romainreynaert.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain_REYNAERT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-reynaert/)
-[![Email](https://img.shields.io/badge/Email-Contact_Moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romain.reynaert@epitech.eu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-romainreynaert.fr-3B82F6?style=flat-square&logo=safari&logoColor=white)](https://romainreynaert.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romain_REYNAERT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-reynaert/)
+[![Email](https://img.shields.io/badge/Email-Contact_Moi-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romain.reynaert@epitech.eu)
 
-### 🎯 Étudiant en 5ème année à Epitech
+🎯 **Étudiant en 5ème année à Epitech**
 
 </div>
 
